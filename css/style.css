@@ -17,8 +17,10 @@
   --fs-40: 40px;
   --primary-color: #FFFFFF;
   --secondary-color: #252525;
-  --tertiary-color: #FB6818;
-  --primary-bg-color: #FB6818;
+  /* --tertiary-color: #FB6818;
+  --primary-bg-color: #FB6818; */
+  --tertiary-color: #adc224;
+  --primary-bg-color: #adc224;
   --secondary-bg-color: #FFFFFF;
   --tertiary-bg-color: #252525;
   --fw-400: 400;
